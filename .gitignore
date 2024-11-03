@@ -1,0 +1,7 @@
+__pycache__
+.venv
+models
+train
+*.mp4
+*.csv
+*.pt
