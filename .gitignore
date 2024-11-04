@@ -3,5 +3,8 @@ __pycache__
 models
 train
 *.mp4
+*.jpg
+*.png
 *.csv
 *.pt
+log.txt

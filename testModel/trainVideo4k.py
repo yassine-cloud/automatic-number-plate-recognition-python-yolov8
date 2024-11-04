@@ -50,6 +50,6 @@ def run_inference_on_video(video_path, model_path='best.pt'):
 
 # Example usage
 # model_pt = "license_plate_detector_GPU_NOv6.pt"
-model_pt = "yolov8m.pt"
+model_pt = "yolo11m.pt"
 video_path = "cars.mp4"  # Replace with your input video path
 run_inference_on_video(video_path, model_pt)
