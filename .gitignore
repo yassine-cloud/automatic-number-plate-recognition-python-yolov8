@@ -8,3 +8,5 @@ train
 *.csv
 *.pt
 log.txt
+
+!example_out.png

@@ -160,7 +160,7 @@ def load_and_predict(image_path, model_path, save_path):
 
 if __name__ == '__main__':
     # Path to the image you want to test
-    image = "license-plate-germany"
+    image = "car3"
     decoder = "jpg"
     image_path = image+"."+decoder  # Replace with your image path
     # Path to your trained model weights
